@@ -1,6 +1,6 @@
 # Plaid - A Case Study on Open Banking
 ## Overview and Origin
-Much can be said about the growth and excitement of the burgeoning FinTech space.  Many of these companies are innovative, unencumbered by the old infrastructure or business models of existing financial institutions.  Data takes the center stage at these companies as they use it provide new insights or streamline old processes.  To access this data, FinTech companies typically need to tap into existing banks to access their customers data or perform money transfers.  
+Much can be said about the growth and excitement of the burgeoning FinTech space.  Many of these companies are innovative, unencumbered by the old infrastructure or business models of existing financial institutions.  Data takes the center stage at these companies as they use it provide new insights or streamline old processes.  To access this data, FinTech companies typically need to tap into existing banks.  
 
 This need to connect old and new platforms means there must be a willingness and ability for FinTech and incumbent financial institution platforms to interact.  Without a seamless interface between the two, new companies would not be able to capture market share or old companies risk migration of customers to banks that are more open. In the early days of FinTech, no basic infrastructure for startups and banks to easily integrate existed.
 
